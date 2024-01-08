@@ -7,7 +7,7 @@ This project delves into the analysis of robotic grasp stability through simulat
 1. Clone the repository. 
 
 ```
-git clone https://github.com/Sukruthi-C/Grasping_simulated_Kuka.git
+git clone git@github.com:Sukruthi-C/Grasping_simulated_Kuka.git
 ```
 2. Install the pre-requisities.
 ```
